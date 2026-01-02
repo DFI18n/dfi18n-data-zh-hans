@@ -1,0 +1,14 @@
+[ID:dfi18n-data-zh-hans]
+[NUMERIC_VERSION:2]
+[DISPLAYED_VERSION:0.0.2]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.0.1]
+[AUTHOR:Viz]
+[NAME:DFI18n Data - zh-Hans]
+[DESCRIPTION:Translation Mod Data for Dwarf Fortress - Simplified Chinese.]
+
+[STEAM_TITLE:DFI18n Data - 简体中文]
+[STEAM_DESCRIPTION:翻译模组的简体中文数据，未做完不要订阅！]
+[STEAM_TAG:dfhack,dfi18n]
+
+[STEAM_FILE_ID:3618185200]

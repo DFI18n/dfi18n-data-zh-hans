@@ -1,0 +1,15 @@
+text,translation,tags
+Continue active game,继续游戏,[ALIGNMENT:CENTER]
+Start new game in existing world,在现有的世界中开始新游戏,[ALIGNMENT:CENTER]
+Create new world,创建新的世界,[ALIGNMENT:CENTER]
+Object testing arena,目标测试竞技场,[ALIGNMENT:CENTER]
+Mods,模组,[ALIGNMENT:CENTER]
+Settings,设置,[ALIGNMENT:CENTER]
+About DF,关于DF,[ALIGNMENT:CENTER]
+Quit,退出,[ALIGNMENT:CENTER]
+Welcome to Dwarf Fortress,欢迎来到矮人要塞,[ALIGNMENT:CENTER]
+"Prepare to guide your stout charges to fortune in a world fraught with many perils. You'll begin by creating your world and watching the region's history unfold. Once this process is complete, you can prepare a group and send them out to seek wealth deep in the mountains. As you dig deeper and more citizens take up residence in your outpost, your doings will attract attention, both wanted and unwanted. Deal with challenges as they arise, and you might one day find that your humble settlement has grown to become a Mountainhome, the center of your civilization.",准备好引导你勇敢的矮人们在危机四伏的世界中走向命运吧。你将生成一个世界并观察其中的历史演变。在该过程完成后，你就可以组建一支队伍并派遣他们进入群山深处以寻求财富。随着挖掘的深入和更多的居民加入你的哨所，你的所作所为将吸引各方注意，无论你意愿如何。应对突如其来的挑战，也许某一天你会发现你那简陋的定居点已然发展为一座山地之家，并成为母文明的中心。,
+Control panel,控制面板,
+Quickstart guide,快速开始,
+[C:7:0:0]She didn't feel anything while in conflict.,[C:7:0:0]在冲突中她没有任何感觉。,
+[C:7:0:1]She is[C:4:0:1] afraid[C:7:0:1] after experiencing trauma.,[C:7:0:1]在经历创伤后她感到[C:4:0:1]害怕[C:7:0:1]。,

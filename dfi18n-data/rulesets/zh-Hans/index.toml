@@ -1,0 +1,11 @@
+[[rulesets]]
+[rulesets.rules]
+"{construction_menu}" = "{construction_menu}"
+"{creatures}" = "{creatures}"
+"{items}" = "{items}"
+"{materials}" = "{materials}"
+"{plants}" = "{plants}"
+"{positions}" = "{positions}"
+"{skills}" = "{skills}"
+"{tasks}" = "{tasks}"
+"{tiles}" = "{tiles}"
